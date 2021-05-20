@@ -1,0 +1,14 @@
+{
+  "name": "comp229-m2021-week2c",
+  "version": "0.0.1",
+  "description": "Demo Project for COMP229 - S2021 - Week2",
+  "main": "index.js",
+  "author": "Alessandro Santos",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc && nodemon index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^15.3.0"
+  }
+}
